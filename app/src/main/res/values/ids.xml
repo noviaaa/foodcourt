@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="editText_nama" type="id" />
+    <item name="editText_harga" type="id" />
+    <item name="editText_menu" type="id" />
+    <item name="text_id_food" type="id" />
+    <item name="button_save_update" type="id" />
+    <item name="button_cancel_update" type="id" />
+    <item name="button_tambah" type="id" />
+    <item name="button_view" type="id" />
+</resources>
